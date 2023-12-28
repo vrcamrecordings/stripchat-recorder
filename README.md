@@ -1,6 +1,6 @@
 # Stripchat Recorder
 
-Record Stripchat and Stripchat VR from your desktop with CaptureGem. CaptureGem is a user-friendly desktop app that is great for recording from Stripchat, among other sites. It also has a review feature which automatically generates image grid screenshots of all your recordings.
+Record Stripchat and Stripchat VR from your desktop with this desktop app. CaptureGem is a user-friendly desktop app that is great for recording from Stripchat, among other sites. It also has a review feature which automatically generates image grid screenshots of all your recordings.
 The app is supported on Windows and macOS. It can record both regular Stripchat streams and ones with VR cameras configured.
 
 CaptureGem can be [found here](https://www.capturegem.com).
